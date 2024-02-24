@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    //this method prints a decrementing pattern until the 0 or below negative
+    //this method prints a decrementing pattern until 0 or below negative
     //after the values reach 0 or below, it calls for the other recursive method
     static void patternDecrement(int number, int initialNumber) {
         System.out.print(number + " ");
